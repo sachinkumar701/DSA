@@ -1,0 +1,22 @@
+class Solution {
+    public int countBinarySubstrings(String s) {
+        int prev = 0;   // length of previous group
+        int curr = 1 ; // length of current group
+        int count = 0;
+
+        for (int i = 1; i < s.length(); i++) {
+            if (s.charAt(i) == s.charAt(i - 1)) {
+                curr++; // same group
+            } else {
+                count += Math.min(prev, curr);
+                prev = curr;
+                curr = 1;
+            }
+        }
+
+        // last group comparison
+        count += Math.min(prev, curr);
+
+        return count;
+    }
+}
