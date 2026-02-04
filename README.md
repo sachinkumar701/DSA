@@ -15,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/sachinkumar701/DSA/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sachinkumar701/DSA/tree/master/1143-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
