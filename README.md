@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
 ## Tree
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sachinkumar701/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
