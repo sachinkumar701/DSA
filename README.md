@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sachinkumar701/DSA/tree/master/1470-shuffle-the-array) |
 | [3637-trionic-array-i](https://github.com/sachinkumar701/DSA/tree/master/3637-trionic-array-i) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sachinkumar701/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/sachinkumar701/DSA/tree/master/0897-increasing-order-search-tree) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
