@@ -81,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sachinkumar701/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sachinkumar701/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0371-sum-of-two-integers) |
 | [0868-binary-gap](https://github.com/sachinkumar701/DSA/tree/master/0868-binary-gap) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0371-sum-of-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachinkumar701/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
