@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sachinkumar701/DSA/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/sachinkumar701/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3637-trionic-array-i](https://github.com/sachinkumar701/DSA/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/sachinkumar701/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
