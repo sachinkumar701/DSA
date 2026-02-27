@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sachinkumar701/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sachinkumar701/DSA/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/sachinkumar701/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sachinkumar701/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0371-sum-of-two-integers) |
 | [0868-binary-gap](https://github.com/sachinkumar701/DSA/tree/master/0868-binary-gap) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sachinkumar701/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Design
 |  |
 | ------- |
