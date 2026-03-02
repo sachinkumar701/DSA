@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachinkumar701/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sachinkumar701/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/sachinkumar701/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sachinkumar701/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sachinkumar701/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sachinkumar701/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/sachinkumar701/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
