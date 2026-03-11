@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
 | [3637-trionic-array-i](https://github.com/sachinkumar701/DSA/tree/master/3637-trionic-array-i) |
 | [3861-minimum-capacity-box](https://github.com/sachinkumar701/DSA/tree/master/3861-minimum-capacity-box) |
+| [3862-find-the-smallest-balanced-index](https://github.com/sachinkumar701/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/sachinkumar701/DSA/tree/master/1732-find-the-highest-altitude) |
+| [3862-find-the-smallest-balanced-index](https://github.com/sachinkumar701/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Matrix
 |  |
 | ------- |
