@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sachinkumar701/DSA/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/sachinkumar701/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachinkumar701/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sachinkumar701/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
 | [3637-trionic-array-i](https://github.com/sachinkumar701/DSA/tree/master/3637-trionic-array-i) |
 | [3861-minimum-capacity-box](https://github.com/sachinkumar701/DSA/tree/master/3861-minimum-capacity-box) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sachinkumar701/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachinkumar701/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sachinkumar701/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
 ## Backtracking
 |  |
