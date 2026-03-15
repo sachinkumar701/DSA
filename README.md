@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachinkumar701/DSA/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/sachinkumar701/DSA/tree/master/0338-counting-bits) |
 | [1143-longest-common-subsequence](https://github.com/sachinkumar701/DSA/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/sachinkumar701/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachinkumar701/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/sachinkumar701/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sachinkumar701/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
@@ -208,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sachinkumar701/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
