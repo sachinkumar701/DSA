@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sachinkumar701/DSA/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/sachinkumar701/DSA/tree/master/1143-longest-common-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/sachinkumar701/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sachinkumar701/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachinkumar701/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
