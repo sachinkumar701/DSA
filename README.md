@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/sachinkumar701/DSA/tree/master/1528-shuffle-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sachinkumar701/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/sachinkumar701/DSA/tree/master/2716-minimize-string-length) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sachinkumar701/DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachinkumar701/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/sachinkumar701/DSA/tree/master/2716-minimize-string-length) |
 ## Greedy
 |  |
 | ------- |
