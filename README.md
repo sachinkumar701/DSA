@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sachinkumar701/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sachinkumar701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/sachinkumar701/DSA/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/sachinkumar701/DSA/tree/master/0796-rotate-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sachinkumar701/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sachinkumar701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/sachinkumar701/DSA/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0876-middle-of-the-linked-list) |
