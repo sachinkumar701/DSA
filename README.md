@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sachinkumar701/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sachinkumar701/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1408-string-matching-in-an-array](https://github.com/sachinkumar701/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/sachinkumar701/DSA/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/sachinkumar701/DSA/tree/master/1528-shuffle-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/sachinkumar701/DSA/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/sachinkumar701/DSA/tree/master/1143-longest-common-subsequence) |
+| [1408-string-matching-in-an-array](https://github.com/sachinkumar701/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/sachinkumar701/DSA/tree/master/1528-shuffle-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sachinkumar701/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
@@ -229,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sachinkumar701/DSA/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/sachinkumar701/DSA/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
