@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/sachinkumar701/DSA/tree/master/3637-trionic-array-i) |
 | [3861-minimum-capacity-box](https://github.com/sachinkumar701/DSA/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sachinkumar701/DSA/tree/master/3862-find-the-smallest-balanced-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sachinkumar701/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0371-sum-of-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachinkumar701/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/sachinkumar701/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sachinkumar701/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
