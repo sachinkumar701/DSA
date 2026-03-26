@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachinkumar701/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1408-string-matching-in-an-array](https://github.com/sachinkumar701/DSA/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/sachinkumar701/DSA/tree/master/1528-shuffle-string) |
+| [1903-largest-odd-number-in-string](https://github.com/sachinkumar701/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sachinkumar701/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/sachinkumar701/DSA/tree/master/2716-minimize-string-length) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0371-sum-of-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachinkumar701/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/sachinkumar701/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/sachinkumar701/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sachinkumar701/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachinkumar701/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/sachinkumar701/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Counting Sort
 |  |
 | ------- |
