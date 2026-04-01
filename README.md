@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/sachinkumar701/DSA/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/sachinkumar701/DSA/tree/master/2716-minimize-string-length) |
+| [3340-check-balanced-string](https://github.com/sachinkumar701/DSA/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
 |  |
 | ------- |
