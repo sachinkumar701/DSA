@@ -1,5 +1,5 @@
 
-//using has map
+//using hash map
 import java.util.HashMap;
 
 class Solution {
