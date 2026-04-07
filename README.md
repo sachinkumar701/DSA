@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinkumar701/DSA/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/sachinkumar701/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachinkumar701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sachinkumar701/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0371-sum-of-two-integers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sachinkumar701/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0371-sum-of-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachinkumar701/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sachinkumar701/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 ## Prefix Sum
 |  |
