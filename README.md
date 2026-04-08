@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sachinkumar701/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/sachinkumar701/DSA/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/sachinkumar701/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachinkumar701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sachinkumar701/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/sachinkumar701/DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/sachinkumar701/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachinkumar701/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
