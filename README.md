@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachinkumar701/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sachinkumar701/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sachinkumar701/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sachinkumar701/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sachinkumar701/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sachinkumar701/DSA/tree/master/0125-valid-palindrome) |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/sachinkumar701/DSA/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/sachinkumar701/DSA/tree/master/1408-string-matching-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sachinkumar701/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
