@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sachinkumar701/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sachinkumar701/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sachinkumar701/DSA/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/sachinkumar701/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sachinkumar701/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachinkumar701/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
