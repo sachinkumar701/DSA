@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinkumar701/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/sachinkumar701/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
+| [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sachinkumar701/DSA/tree/master/0338-counting-bits) |
 | [1143-longest-common-subsequence](https://github.com/sachinkumar701/DSA/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sachinkumar701/DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
