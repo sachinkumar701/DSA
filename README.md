@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sachinkumar701/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/sachinkumar701/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/sachinkumar701/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinkumar701/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/sachinkumar701/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/sachinkumar701/DSA/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sachinkumar701/DSA/tree/master/0338-counting-bits) |
 | [1143-longest-common-subsequence](https://github.com/sachinkumar701/DSA/tree/master/1143-longest-common-subsequence) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/sachinkumar701/DSA/tree/master/0063-unique-paths-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
