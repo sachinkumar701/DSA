@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sachinkumar701/DSA/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/sachinkumar701/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
+| [0560-subarray-sum-equals-k](https://github.com/sachinkumar701/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sachinkumar701/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sachinkumar701/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sachinkumar701/DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/sachinkumar701/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/sachinkumar701/DSA/tree/master/2451-odd-string-difference) |
 | [2716-minimize-string-length](https://github.com/sachinkumar701/DSA/tree/master/2716-minimize-string-length) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sachinkumar701/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/sachinkumar701/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/sachinkumar701/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3862-find-the-smallest-balanced-index](https://github.com/sachinkumar701/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Matrix
