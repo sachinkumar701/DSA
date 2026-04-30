@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sachinkumar701/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sachinkumar701/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sachinkumar701/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/sachinkumar701/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinkumar701/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sachinkumar701/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sachinkumar701/DSA/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sachinkumar701/DSA/tree/master/0338-counting-bits) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sachinkumar701/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sachinkumar701/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sachinkumar701/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
