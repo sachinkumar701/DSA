@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachinkumar701/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sachinkumar701/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sachinkumar701/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sachinkumar701/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sachinkumar701/DSA/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/sachinkumar701/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sachinkumar701/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sachinkumar701/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sachinkumar701/DSA/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sachinkumar701/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sachinkumar701/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sachinkumar701/DSA/tree/master/0219-contains-duplicate-ii) |
