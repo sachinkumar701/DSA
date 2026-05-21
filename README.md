@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sachinkumar701/DSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/sachinkumar701/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sachinkumar701/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sachinkumar701/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sachinkumar701/DSA/tree/master/0063-unique-paths-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sachinkumar701/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sachinkumar701/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sachinkumar701/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sachinkumar701/DSA/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sachinkumar701/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sachinkumar701/DSA/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachinkumar701/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/sachinkumar701/DSA/tree/master/1903-largest-odd-number-in-string) |
