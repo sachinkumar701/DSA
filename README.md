@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sachinkumar701/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinkumar701/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sachinkumar701/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sachinkumar701/DSA/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/sachinkumar701/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sachinkumar701/DSA/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/sachinkumar701/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sachinkumar701/DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sachinkumar701/DSA/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/sachinkumar701/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sachinkumar701/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sachinkumar701/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/sachinkumar701/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sachinkumar701/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sachinkumar701/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/sachinkumar701/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sachinkumar701/DSA/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sachinkumar701/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sachinkumar701/DSA/tree/master/0045-jump-game-ii) |
+| [0179-largest-number](https://github.com/sachinkumar701/DSA/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sachinkumar701/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/sachinkumar701/DSA/tree/master/1903-largest-odd-number-in-string) |
