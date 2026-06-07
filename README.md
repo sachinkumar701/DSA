@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sachinkumar701/DSA/tree/master/0338-counting-bits) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sachinkumar701/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sachinkumar701/DSA/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sachinkumar701/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sachinkumar701/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sachinkumar701/DSA/tree/master/0070-climbing-stairs) |
