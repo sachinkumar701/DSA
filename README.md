@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sachinkumar701/DSA/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/sachinkumar701/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/sachinkumar701/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sachinkumar701/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sachinkumar701/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sachinkumar701/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinkumar701/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/sachinkumar701/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sachinkumar701/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachinkumar701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sachinkumar701/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/sachinkumar701/DSA/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/sachinkumar701/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sachinkumar701/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sachinkumar701/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sachinkumar701/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sachinkumar701/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sachinkumar701/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sachinkumar701/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sachinkumar701/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/sachinkumar701/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/sachinkumar701/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2418-sort-the-people](https://github.com/sachinkumar701/DSA/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/sachinkumar701/DSA/tree/master/2451-odd-string-difference) |
