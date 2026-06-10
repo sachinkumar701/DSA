@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sachinkumar701/DSA/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sachinkumar701/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar701/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sachinkumar701/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sachinkumar701/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sachinkumar701/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/sachinkumar701/DSA/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar701/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sachinkumar701/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sachinkumar701/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sachinkumar701/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sachinkumar701/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sachinkumar701/DSA/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/sachinkumar701/DSA/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sachinkumar701/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sachinkumar701/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/sachinkumar701/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sachinkumar701/DSA/tree/master/1903-largest-odd-number-in-string) |
