@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sachinkumar701/DSA/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/sachinkumar701/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sachinkumar701/DSA/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/sachinkumar701/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sachinkumar701/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/sachinkumar701/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sachinkumar701/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sachinkumar701/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sachinkumar701/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sachinkumar701/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sachinkumar701/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sachinkumar701/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sachinkumar701/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sachinkumar701/DSA/tree/master/0349-intersection-of-two-arrays) |
